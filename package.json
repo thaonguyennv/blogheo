@@ -1,5 +1,9 @@
 {
   "name": "blogheo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "ckeditor": "^4.10.0",
+    "jquery": "^3.3.1",
+    "jquery-ujs": "^1.2.2"
+  }
 }
